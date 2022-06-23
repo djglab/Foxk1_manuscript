@@ -31,7 +31,6 @@
 ### Figure 5
 |  | Figures | Link | 
 | --- | --- | --- | 
-
 | RNAseq pathway analysis of Wnt signaling in D5 EBs comparing control and Foxk1 KO groups. | Fig. 5a | [R](https://colab.research.google.com/github/djglab/Foxk1_manuscript/blob/main/notebooks/Figure_6a_and_5a_WNT_at_D5.ipynb) |
 | The PCA of RNAseq of EB differentiation at D10 shows samples with similar gene expression cluster together. | Fig. 5e | [R](https://colab.research.google.com/github/djglab/Foxk1_manuscript/blob/main/notebooks/RNAseq_Foxk1_D10_analysis_Control_and_Iwr1_KO_similarity.ipynb) |
 | Venn diagram shows 320 genes up-regulated in both Ct and KO + IWR1 samples when compared to Foxk1 KO samples | Fig. 5f | [R](https://colab.research.google.com/github/djglab/Foxk1_manuscript/blob/main/notebooks/RNAseq_Foxk1_D10_analysis_Control_and_Iwr1_KO_similarity.ipynb) |
