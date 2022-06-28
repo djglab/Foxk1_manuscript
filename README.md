@@ -1,4 +1,10 @@
-# Foxk1_manuscript
+### The code for the manuscript:
+
+# FOXK1 regulates Wnt signaling to promote cardiogenesis 
+
+Javier E. Sierra-Pagan, Nikita Dsouza, Satyabrata Das, Thijs A. Larson,
+Patricia Stan, Erik J. Wanberg, Mary G. Garry, Wuming Gong, Daniel J.
+Garry
 
 ## Main Figures
 
