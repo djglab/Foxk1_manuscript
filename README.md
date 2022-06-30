@@ -74,3 +74,12 @@ Garry
 | | Figures | Link |
 | --- | --- | --- |
 | The top 15 enriched GO pathways, highlighting pathways and development related terms in the Foxk1 null at D10. | Supplementary Fig. 5a | [R](https://colab.research.google.com/github/djglab/Foxk1_manuscript/blob/main/notebooks/Figure_4ef_RNAseq_Foxk1_D10_analysis.ipynb) | 
+
+## GEO Accession numbers
+The superseries accession number for the project: [GSE202563](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202563)
+
+| GEO Accession | Link |
+| --- | --- |
+| GSE202517 | [ATAC](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202517) |
+| GSE202562 | [RNA](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202562) |
+|
